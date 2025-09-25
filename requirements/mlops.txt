@@ -1,0 +1,11 @@
+# MLOps & Experiment Tracking
+mlflow
+dvc
+
+# API Framework
+fastapi
+uvicorn[standard] # ASGI server for production
+pydantic          # Data validation (used by FastAPI)
+
+# Advanced Serialization
+pyarrow         # Efficient data serialization for MLflow

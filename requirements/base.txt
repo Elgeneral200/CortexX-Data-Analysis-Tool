@@ -1,0 +1,14 @@
+# Core Data Science & ML
+pandas
+numpy
+scikit-learn
+joblib
+
+# Forecasting Libraries
+statsmodels
+prophet
+xgboost
+lightgbm
+
+# Visualization
+plotly

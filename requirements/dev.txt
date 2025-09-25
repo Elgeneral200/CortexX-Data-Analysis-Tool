@@ -1,0 +1,15 @@
+-r base.txt
+-r mlops.txt
+
+# Development & Testing Tools
+pytest
+black
+flake8
+pre-commit
+python-dotenv
+click
+
+# Optional: for deeper analysis in notebooks
+jupyter
+seaborn
+matplotlib

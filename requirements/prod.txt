@@ -1,0 +1,7 @@
+-r base.txt
+-r mlops.txt
+
+# Production Server & Dashboard
+streamlit
+gunicorn        # WSGI HTTP server (if needed for alternative deployment)
+python-multipart  # For parsing form data with FastAPI
